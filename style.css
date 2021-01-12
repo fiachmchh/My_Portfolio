@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.bg {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    background-blend-mode: soft-light;
+    clip-path: circle(44.6% at 71% 34%);
+    position: absolute;
+    z-index: -1;
+}
+nav {
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.jumbotron {
+    margin: 30px;
+}
+.p-3 {
+    font-size: 20px;
+}
+.btn-warning {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.big-banner {
+    background-image: url('../Images/sample-jumbotron.JPG');
+    background-size: 100%;
+    border: 2px solid black;
+    background-color: aquamarine
+}
+.album {
+  border-radius: 5px;
+  border: 2px solid black;
+}
